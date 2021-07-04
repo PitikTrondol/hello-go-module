@@ -1,0 +1,4 @@
+
+func SayHello()  {
+	return "Hello"
+}
